@@ -1,6 +1,8 @@
 import os
 os.system('cls')
 
+print("Other thinks")
+
 edad = input('Su edad?: ')
 edad = int(edad)
 
