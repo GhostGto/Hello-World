@@ -1,6 +1,9 @@
 import os
 os.system('cls')
 
+
+print("Learning Git")
+
 edad = input('Su edad?: ')
 edad = int(edad)
 
