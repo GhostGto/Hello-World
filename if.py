@@ -3,6 +3,7 @@ os.system('cls')
 
 
 print("Learning Git")
+print("Easy way to learn")
 
 edad = input('Su edad?: ')
 edad = int(edad)
