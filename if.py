@@ -7,7 +7,7 @@ print("Other thinks")
 
 print("Learning Git")
 print("Easy way to learn")
-
+print("Second day on git")
 
 edad = input('Su edad?: ')
 edad = int(edad)
