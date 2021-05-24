@@ -1,13 +1,13 @@
 import os
 os.system('cls')
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 print("Other thinks")
-=======
+#=======
 
 print("Learning Git")
 print("Easy way to learn")
->>>>>>> if.py
+#>>>>>>> if.py
 
 edad = input('Su edad?: ')
 edad = int(edad)
